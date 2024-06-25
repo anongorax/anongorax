@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Jellyfish Technologies](https://www.jellyfishtechnologies.com/)
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently developing **[harshdeep-dev](https://harshdeep-dev.vercel.app/)**
 
 - 👯 I’m looking to collaborate on **OpenSource JavaScript Based Projects**
 
